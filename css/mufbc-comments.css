@@ -1,0 +1,8 @@
+.mufbc-comments{
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+.fb_iframe_widget, .fb_iframe_widget span, .fb_iframe_widget iframe{
+    width: 100% !important;
+}
